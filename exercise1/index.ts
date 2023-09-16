@@ -16,3 +16,6 @@ function transformArray <T> (inputArray: T[], callbackFunction: (arg0: T) => T) 
 
     return inputArray;
 }
+
+
+
